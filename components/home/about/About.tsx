@@ -14,29 +14,36 @@ export const About = () => {
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
               Hey! I&apos;m Samuel, if you haven&apos;t already gathered that by
-              now. I&apos;m a painter turned software engineer from Daytona,
-              Florida. I specialize in the backend, primarily Node and Rust, but
+              now. I&apos;m a software engineer from Lagos, Nigeria. I
+              specialize in the front-end, primarily Javascript and React, but
               love building with whatever tools are right for the job.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work for Google on Google Photos. I also toss in my ¢2
-              with the design systems teams from time to time (once an artist,
-              always an artist, amirite?).
+              In this fast-paced digital landscape, staying current with the
+              latest technologies is a priority for me. I&apos;m a firm believer
+              in lifelong learning, always eager to explore new tools,
+              frameworks, and techniques. By keeping my skills up-to-date, I
+              ensure that I can provide innovative solutions to the challenges
+              of today&apos;s digital world..
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              Outside of work, I still love to paint. Any given Sunday
-              you&apos;ll find me scribbling some happy clouds with my son ☁️ I
-              even teach courses online if you&apos;re looking to learn!
+              Outside of work, I harbor a passion for cinematography. While
+              I&apos;m busy crafting digital landscapes, I also enjoy capturing
+              moments through the lens of a camera. Whether it&apos;s the play
+              of light and shadow or the art of storytelling, cinematography
+              allows me to express my creativity in a different form. It&apos;s
+              not just about capturing visuals; it&apos;s about evoking emotions
+              and telling stories that resonate.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
               I&apos;m passively looking for new positions where I can merge my
-              love for code with my love for the canvas. If you think
+              love for code with my love for cinematography. If you think
               you&apos;ve got an opening that I might like, let&apos;s connect
               🔗
             </p>

@@ -19,10 +19,11 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            I&apos;ve spent the last 5 years building and scaling software for
-            some pretty cool companies. I also teach people to paint online
-            (incase you&apos;ve got an empty canvas layin&apos; around 🎨).
-            Let&apos;s connect!
+            I am passionate about creating exceptional web experiences that
+            seamlessly blend creativity and functionality. Beyond the code,
+            you&apos;ll find me behind the lens, capturing captivating moments
+            through the art of cinematography as a hobby. Join me as I bring
+            imagination to life, one pixel and one frame at a time.
           </p>
         </Reveal>
         <Reveal>

@@ -87,7 +87,7 @@ const projects = [
     projectLink: "https://www.acemansion.versel.app",
     tech: ["React", "Typescript", "Tailwind CSS"],
     description:
-      "I crafted the Ace Mansion website as a platform to showcase my company&apos;s work, utilizing a combination of React, TypeScript, and Tailwind CSS.",
+      "I crafted the Ace Mansion website as a platform to showcase my company's work, utilizing a combination of React, TypeScript, and Tailwind CSS.",
     modalContent: (
       <>
         <p>
