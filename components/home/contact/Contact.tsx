@@ -1,7 +1,7 @@
 import { Reveal } from "@/components/utils/Reveal";
 import styles from "./contact.module.scss";
 import Link from "next/link";
-import ContactForm from "./ContactForm";
+import { ContactForm } from "./ContactForm";
 
 export const Contact = () => {
   return (
@@ -14,7 +14,8 @@ export const Contact = () => {
         </Reveal>
         <Reveal width="100%">
           <p className={styles.contactCopy}>
-            Shoot me an email if you want to connect! You can also find me on{" "}
+            Shoot me a message below if you want to connect! You can also find
+            me on{" "}
             <Link
               href="https://www.linkedin.com/in/greatsamuelojo"
               target="_blank"

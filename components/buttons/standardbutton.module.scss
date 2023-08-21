@@ -21,3 +21,8 @@
 .standardButton:hover {
   opacity: 0.9;
 }
+
+.standardButton:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
