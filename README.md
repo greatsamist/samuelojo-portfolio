@@ -35,7 +35,7 @@ Welcome to my portfolio project! This project showcases my skills as a frontend 
 
 2. Navigate to the project directory:
    ```bash
-   cd your-portfolio
+   cd samuelojo-portfolio
    ```
 3. Install the dependencies:
    ```bash
