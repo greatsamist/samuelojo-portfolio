@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 
 Connect with me:
 
-- Portfolio: [Samuelojo.com](https://samuelojo.vercel.app)
+- Portfolio: [Samuelojo.com](https://ojosamuel.com)
 - LinkedIn: [@greatsamuelojo](https://www.linkedin.com/in/greatsamuelojo/)
 - Twitter: [@greatsamuelojo](https://twitter.com/greatsamuelojo)
 
